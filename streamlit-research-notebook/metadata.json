@@ -1,0 +1,6 @@
+{
+  "name": "Streamlit Research Notebook",
+  "description": "A Streamlit-style scientific and general research logging notebook with interactive sliders, markdown generation, metrics summary, and persistent findings database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
